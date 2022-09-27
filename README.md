@@ -23,17 +23,10 @@ Code is available in the ***models*** folder for each model.
 Thesis document is available in the ***thesis*** folder.
 
 ## Directory Structure:
-
-	- board_logs
-		- Contains tensorboard files for all models
-	- checkpoints
-		- Contains checkpoints during training for all models
 	- Dataset
 		- Contains the data that was used for training, validation and evaluation
 		- lung_masks:
 			- Lung masks for each image that were not used yet.
-	- logs
-		- Contains training logs for each model during training from model.fit()
 	- models
 		- Jupyter Notebooks for each model
 	- Thesis
