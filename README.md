@@ -1,4 +1,4 @@
-# Developing and evaluating 5 different models on COVID-19 recognition
+# Evaluating 5 pre-trained models on classifying COVID-19 using transfer learning and fine-tuning
 
 ## The models that were used are:
 
