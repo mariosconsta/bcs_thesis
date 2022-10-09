@@ -46,6 +46,9 @@ venv
 # Results
 Results
 
+# ipynb_checkpoints
+.ipynb_checkpoints
+
 # Checkpoints
 checkpoints
 
