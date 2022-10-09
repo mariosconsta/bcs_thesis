@@ -1,5 +1,7 @@
 # Evaluating 5 pre-trained models on classifying COVID-19 using transfer learning and fine-tuning
 
+Dataset from [Kaggle](https://www.kaggle.com/datasets/anasmohammedtahir/covidqu)
+
 ## The models that were used are:
 
 - ResNet50
