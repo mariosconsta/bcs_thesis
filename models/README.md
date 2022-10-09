@@ -19,4 +19,21 @@ All model code is contained in this directory. There is a general template that 
 | 11 | Evaluation | All models were evaluated the same way
 | 12* | ResNet101 Demo | At the end of this model, there's code where you can run predictions and see the result.
 
+---
 
+# Results
+<center>
+
+| **Model** | **Accuracy** | **Loss** | **Precision** | **Recall** |
+| :-:       |   :-:        | :-:      | :-:           |   :-:      |
+| ResNet 50| 95.4% | 0.15 | 95.5%     | 95.3%  |
+| **ResNet101**| 95.7% | 0.13 | 95.7% | 95.6% |
+| DenseNet121 | 93% | 0.21 | 93.2% | 92.8% |
+| DenseNet169 | 93.9% | 0.18 | 94.2% | 93.8% |
+| InceptionV3 | 94.9% | 0.15 | 95.2% | 94.6% |
+
+</center>
+
+---
+
+All models were evaluated on the test set.
