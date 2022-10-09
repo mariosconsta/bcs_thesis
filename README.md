@@ -29,7 +29,8 @@ Thesis document is available in the ***thesis*** folder.
 			- Lung masks for each image that were not used yet.
 	- models
 		- Jupyter Notebooks for each model
+		- README File contains information about the template used for each model. Also, it includes the evaluation results
 	- Thesis
-		- Contains thesis
+		- Thesis text (Greek)
 
 For any questions send an email to ***mariosconsta@gmail.com***
