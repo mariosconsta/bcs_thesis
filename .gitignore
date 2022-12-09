@@ -40,8 +40,8 @@ bld/
 dummy_model.ipynb
 demo.ipynb
 
-# venv
-venv
+# Dataset
+dataset
 
 # Results
 Results
